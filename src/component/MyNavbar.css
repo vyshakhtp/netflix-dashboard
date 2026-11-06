@@ -1,0 +1,14 @@
+.nav-button {
+    color: white !important;
+    text-decoration: none;
+}
+
+.nav-button:hover {
+    color: #ccc !important;
+}
+
+.nav-button:focus {
+    color: white !important;
+    box-shadow: none;
+}
+
